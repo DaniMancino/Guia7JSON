@@ -1,0 +1,20 @@
+{
+  "libros": [
+    {
+      "nombreLibro": "La isla del tesoro"
+    },
+    {
+      "nombreLibro": "Harry Potter"
+    },
+    {
+      "nombreLibro": "Tangaroa"
+    },
+    {
+      "nombreLibro": "El Secreto"
+    },
+    {
+      "nombreLibro": "El Alquimista"
+    }
+  ],
+  "nombreBiblioteca": "BiblioMDP"
+}

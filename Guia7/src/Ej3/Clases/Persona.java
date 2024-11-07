@@ -1,9 +1,4 @@
-package Ej1.Clases;
-
-import manejoJSON.JSONUtiles;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
+package Ej3.Clases;
 
 public class Persona {
     private  String nombre;
@@ -62,6 +57,7 @@ public class Persona {
                 ", sexo='" + sexo + '\'' +
                 '}';
     }
+
 
 
 }

@@ -1,0 +1,24 @@
+{
+  "codigo": "c1",
+  "nombre": "Pintura",
+  "personas": [
+    {
+      "sexo": "m",
+      "nombre": "Alberto",
+      "edad": 25,
+      "dni": 38954123
+    },
+    {
+      "sexo": "f",
+      "nombre": "Ana",
+      "edad": 22,
+      "dni": 40123789
+    },
+    {
+      "sexo": "m",
+      "nombre": "Dani",
+      "edad": 38,
+      "dni": 32654852
+    }
+  ]
+}

@@ -1,8 +1,5 @@
-package Ej1.Clases;
+package Ej2.Clases;
 
-import manejoJSON.JSONUtiles;
-import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
 
 public class Persona {
@@ -11,14 +8,9 @@ public class Persona {
     private int dni;
     private String sexo;
 
-    public Persona() {
-    }
 
-    public Persona(String nombre, int edad, int dni, String sexo) {
-        this.nombre = nombre;
-        this.edad = edad;
-        this.dni = dni;
-        this.sexo = sexo;
+    public Persona() {
+
     }
 
     public String getNombre() {
@@ -62,6 +54,7 @@ public class Persona {
                 ", sexo='" + sexo + '\'' +
                 '}';
     }
+
 
 
 }
